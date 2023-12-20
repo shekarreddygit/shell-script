@@ -2,4 +2,4 @@
 
 echo "please enter your name"
 read Person
-echo "hi $person"
+echo "hi $Person"
