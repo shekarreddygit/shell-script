@@ -1,4 +1,4 @@
-#!bin/shell
+#!bin/bash
 
 
 echo "$1 : Hi $2, good morning"
